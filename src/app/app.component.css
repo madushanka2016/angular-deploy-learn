@@ -1,5 +1,6 @@
 mat-card{
     color: black;
+    height: max-content;
 }
 p button{
     margin-bottom: 10px;
